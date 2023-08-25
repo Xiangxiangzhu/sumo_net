@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.8 (307760 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="22.8754000" minlon="113.6261000" maxlat="22.8797000" maxlon="113.6347000"/>
+ <node id="2964889824" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:47Z" user="Cottaer" uid="29465" lat="22.8376762" lon="113.6404516"/>
+ <node id="2964890070" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8443180" lon="113.6449265"/>
+ <node id="2964890074" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8449737" lon="113.6452928"/>
+ <node id="2964890075" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8452700" lon="113.6453982"/>
+ <node id="2964890078" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8455954" lon="113.6454562"/>
+ <node id="2964890081" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8458892" lon="113.6454588"/>
+ <node id="2964890086" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8461928" lon="113.6454246"/>
+ <node id="2964890088" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8464963" lon="113.6453402"/>
+ <node id="2964890089" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8467683" lon="113.6452269"/>
+ <node id="2964890092" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8469941" lon="113.6451083"/>
+ <node id="2964890096" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8471957" lon="113.6449660"/>
+ <node id="2964890100" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:48Z" user="Cottaer" uid="29465" lat="22.8475016" lon="113.6446748"/>
+ <node id="2964890122" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8499947" lon="113.6419060"/>
+ <node id="2964890142" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8533514" lon="113.6382090"/>
+ <node id="2964890145" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8538993" lon="113.6376055"/>
+ <node id="2964890146" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8541946" lon="113.6373186"/>
+ <node id="2964890148" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8543938" lon="113.6371621"/>
+ <node id="2964890150" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8546273" lon="113.6370130"/>
+ <node id="2964890153" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8548814" lon="113.6369124"/>
+ <node id="2964890154" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:49Z" user="Cottaer" uid="29465" lat="22.8551424" lon="113.6368341"/>
+ <node id="2964890181" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:50Z" user="Cottaer" uid="29465" lat="22.8594177" lon="113.6359211"/>
+ <node id="2964890195" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:50Z" user="Cottaer" uid="29465" lat="22.8630404" lon="113.6350752"/>
+ <node id="2964890218" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:51Z" user="Cottaer" uid="29465" lat="22.8698872" lon="113.6334728"/>
+ <node id="2964890357" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:51Z" user="Cottaer" uid="29465" lat="22.8735645" lon="113.6327536"/>
+ <node id="2964890411" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:52Z" user="Cottaer" uid="29465" lat="22.8771148" lon="113.6320865"/>
+ <node id="2964890534" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:53Z" user="Cottaer" uid="29465" lat="22.8789757" lon="113.6317548"/>
+ <node id="2964890562" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:53Z" user="Cottaer" uid="29465" lat="22.8823225" lon="113.6312730"/>
+ <node id="2964890619" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:55Z" user="Cottaer" uid="29465" lat="22.8859623" lon="113.6304014"/>
+ <node id="2964890893" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:56Z" user="Cottaer" uid="29465" lat="22.8886196" lon="113.6298386"/>
+ <node id="2964890915" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:57Z" user="Cottaer" uid="29465" lat="22.8901566" lon="113.6296108"/>
+ <node id="2964891058" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:57Z" user="Cottaer" uid="29465" lat="22.8926947" lon="113.6292275"/>
+ <node id="2964891063" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:58Z" user="Cottaer" uid="29465" lat="22.8932474" lon="113.6291380"/>
+ <node id="2964891069" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:58Z" user="Cottaer" uid="29465" lat="22.8936972" lon="113.6290262"/>
+ <node id="2964891090" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:58Z" user="Cottaer" uid="29465" lat="22.8941709" lon="113.6288399"/>
+ <node id="2964891102" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:58Z" user="Cottaer" uid="29465" lat="22.8945966" lon="113.6285977"/>
+ <node id="2964891117" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:59Z" user="Cottaer" uid="29465" lat="22.8952798" lon="113.6281505"/>
+ <node id="2964891361" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:15:59Z" user="Cottaer" uid="29465" lat="22.8988305" lon="113.6258315"/>
+ <node id="2964891384" visible="true" version="1" changeset="24167398" timestamp="2014-07-15T19:16:00Z" user="Cottaer" uid="29465" lat="22.9024064" lon="113.6234960"/>
+ <node id="3261146304" visible="true" version="2" changeset="38560181" timestamp="2016-04-14T16:33:47Z" user="DannyAiquipa" uid="2226712" lat="22.8419132" lon="113.6433001"/>
+ <node id="3261146332" visible="true" version="1" changeset="27815612" timestamp="2014-12-31T05:32:05Z" user="adawong1996" uid="2431663" lat="22.8485918" lon="113.6434641"/>
+ <node id="3395151982" visible="true" version="1" changeset="29425812" timestamp="2015-03-12T12:56:48Z" user="MarsmanRom" uid="44514" lat="22.8565800" lon="113.6365271"/>
+ <node id="5904901958" visible="true" version="1" changeset="62564945" timestamp="2018-09-13T20:34:14Z" user="Canyonsrcool" uid="126508" lat="22.8407953" lon="113.6425486"/>
+ <node id="6409583754" visible="true" version="3" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8758445" lon="113.6300907">
+  <tag k="barrier" v="toll_booth"/>
+ </node>
+ <node id="6409583755" visible="true" version="3" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760148" lon="113.6300930">
+  <tag k="barrier" v="toll_booth"/>
+ </node>
+ <node id="6409583756" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8777755" lon="113.6316164"/>
+ <node id="6409583757" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:41Z" user="ff5722" uid="3450290" lat="22.8777074" lon="113.6298966"/>
+ <node id="6409583758" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8775714" lon="113.6287031"/>
+ <node id="6409583759" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8772156" lon="113.6283410"/>
+ <node id="6409583760" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8770550" lon="113.6282900"/>
+ <node id="6409583761" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8776580" lon="113.6291268"/>
+ <node id="6409583762" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8774948" lon="113.6285743"/>
+ <node id="6409583763" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8766719" lon="113.6283249"/>
+ <node id="6409583764" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8772156" lon="113.6277857"/>
+ <node id="6409583765" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8777172" lon="113.6271796"/>
+ <node id="6409583766" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8779891" lon="113.6265466"/>
+ <node id="6409583767" visible="true" version="3" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8782969" lon="113.6245567">
+  <tag k="highway" v="motorway_junction"/>
+  <tag k="name" v="沙田东"/>
+  <tag k="name:en" v="Shatian East"/>
+  <tag k="ref" v="15"/>
+ </node>
+ <node id="6409583768" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8781253" lon="113.6290044"/>
+ <node id="6409583769" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8781695" lon="113.6296365"/>
+ <node id="6409583770" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8783202" lon="113.6299583"/>
+ <node id="6409583771" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8782214" lon="113.6298242"/>
+ <node id="6409583772" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8785575" lon="113.6301166"/>
+ <node id="6409583773" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8788812" lon="113.6301059"/>
+ <node id="6409583774" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:41Z" user="ff5722" uid="3450290" lat="22.8784288" lon="113.6300622"/>
+ <node id="6409583775" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8790072" lon="113.6300200"/>
+ <node id="6409583776" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8792790" lon="113.6296982"/>
+ <node id="6409583777" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8787082" lon="113.6301354"/>
+ <node id="6409583778" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8760163" lon="113.6296491"/>
+ <node id="6409583779" visible="true" version="3" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760319" lon="113.6293064"/>
+ <node id="6409583780" visible="true" version="3" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760922" lon="113.6289700"/>
+ <node id="6409583781" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8765035" lon="113.6283927"/>
+ <node id="6409583782" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8769042" lon="113.6281452"/>
+ <node id="6409583783" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8771118" lon="113.6280888"/>
+ <node id="6409583784" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8778853" lon="113.6279976"/>
+ <node id="6409583785" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8787700" lon="113.6282364"/>
+ <node id="6409583786" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8789257" lon="113.6283302"/>
+ <node id="6409583787" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8790888" lon="113.6284751"/>
+ <node id="6409583788" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8791678" lon="113.6285636"/>
+ <node id="6409583789" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8793285" lon="113.6288667"/>
+ <node id="6409583790" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8793754" lon="113.6291027"/>
+ <node id="6409583791" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8793532" lon="113.6295211"/>
+ <node id="6409583792" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8791654" lon="113.6298886"/>
+ <node id="6409583793" visible="true" version="3" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8759321" lon="113.6323238"/>
+ <node id="6409583795" visible="true" version="3" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8758567" lon="113.6293100"/>
+ <node id="6409583796" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8767505" lon="113.6281168"/>
+ <node id="6409583797" visible="true" version="3" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8761031" lon="113.6286704"/>
+ <node id="6409583798" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:42Z" user="ff5722" uid="3450290" lat="22.8763729" lon="113.6283671"/>
+ <node id="6409583799" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8773713" lon="113.6279440"/>
+ <node id="6409583800" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8778729" lon="113.6279118"/>
+ <node id="6409583801" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:42Z" user="ff5722" uid="3450290" lat="22.8789889" lon="113.6282927"/>
+ <node id="6409583802" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8792173" lon="113.6285180"/>
+ <node id="6409583803" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8793902" lon="113.6288720"/>
+ <node id="6409583804" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8788095" lon="113.6281747"/>
+ <node id="6409583805" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8794323" lon="113.6290920"/>
+ <node id="6409583806" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8793927" lon="113.6295962"/>
+ <node id="6409583807" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8788688" lon="113.6302400"/>
+ <node id="6409583808" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:42Z" user="ff5722" uid="3450290" lat="22.8793163" lon="113.6286748"/>
+ <node id="6409583809" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8792889" lon="113.6298403"/>
+ <node id="6409583810" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8781151" lon="113.6312753"/>
+ <node id="6409583811" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8785624" lon="113.6304975"/>
+ <node id="6409583812" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8783869" lon="113.6306879"/>
+ <node id="6409583813" visible="true" version="3" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8778327" lon="113.6331433">
+  <tag k="highway" v="motorway_junction"/>
+  <tag k="name" v="沙田东"/>
+  <tag k="name:en" v="Shatian East"/>
+  <tag k="ref" v="15"/>
+ </node>
+ <node id="6409583858" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8786622" lon="113.6471799"/>
+ <node id="6409583859" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8785729" lon="113.6456616"/>
+ <node id="6409583860" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8781968" lon="113.6419016"/>
+ <node id="6409583861" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8778910" lon="113.6389780"/>
+ <node id="6409583862" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8777730" lon="113.6366089"/>
+ <node id="6409583863" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8778025" lon="113.6343766"/>
+ <node id="6409583865" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8780039" lon="113.6302775"/>
+ <node id="6409583866" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8783013" lon="113.6267465"/>
+ <node id="6409583867" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8785980" lon="113.6226450"/>
+ <node id="6409583868" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8787417" lon="113.6204696"/>
+ <node id="6409583869" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8787119" lon="113.6180422"/>
+ <node id="6409583870" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:43Z" user="ff5722" uid="3450290" lat="22.8783653" lon="113.6136253"/>
+ <node id="6409583871" visible="true" version="3" changeset="125539658" timestamp="2022-08-29T20:04:44Z" user="XD346" uid="4892967" lat="22.8781305" lon="113.6107295"/>
+ <node id="6409583982" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8784784" lon="113.6471915"/>
+ <node id="6409583983" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8783894" lon="113.6456787"/>
+ <node id="6409583984" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8780138" lon="113.6419237"/>
+ <node id="6409583985" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8777074" lon="113.6389947"/>
+ <node id="6409583986" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8775887" lon="113.6366129"/>
+ <node id="6409583987" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8776184" lon="113.6343706"/>
+ <node id="6409583988" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8776975" lon="113.6325252"/>
+ <node id="6409583989" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8779990" lon="113.6289820"/>
+ <node id="6409583990" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8781769" lon="113.6267370"/>
+ <node id="6409583991" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8784586" lon="113.6226225"/>
+ <node id="6409583992" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:44Z" user="ff5722" uid="3450290" lat="22.8785575" lon="113.6204660"/>
+ <node id="6409583993" visible="true" version="1" changeset="69276097" timestamp="2019-04-16T15:25:45Z" user="ff5722" uid="3450290" lat="22.8785278" lon="113.6180520"/>
+ <node id="6409583994" visible="true" version="2" changeset="75730853" timestamp="2019-10-15T15:07:30Z" user="orca_horka" uid="8525896" lat="22.8782347" lon="113.6136255"/>
+ <node id="6409583995" visible="true" version="3" changeset="125539658" timestamp="2022-08-29T20:04:44Z" user="XD346" uid="4892967" lat="22.8780014" lon="113.6107369"/>
+ <node id="6447059837" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8785547" lon="113.6256197"/>
+ <node id="6447059838" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8785229" lon="113.6278946"/>
+ <node id="6447059839" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8797614" lon="113.6285151"/>
+ <node id="6447059840" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8792428" lon="113.6306176"/>
+ <node id="6447059841" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8782583" lon="113.6313759"/>
+ <node id="6447059842" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8782265" lon="113.6322835"/>
+ <node id="6447059843" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8756119" lon="113.6326512"/>
+ <node id="6447059844" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8754319" lon="113.6295261"/>
+ <node id="6447059845" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:32Z" user="HYQ31" uid="7492212" lat="22.8766705" lon="113.6276189"/>
+ <node id="7106596534" visible="true" version="1" changeset="79185336" timestamp="2020-01-04T10:45:07Z" user="a828245" uid="8582861" lat="22.9021638" lon="113.6236545"/>
+ <node id="9844997094" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8758400" lon="113.6297898"/>
+ <node id="9844997095" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8765582" lon="113.6282256"/>
+ <node id="9844997096" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8762073" lon="113.6285368"/>
+ <node id="9844997097" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8758924" lon="113.6290880"/>
+ <node id="9844997098" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8758450" lon="113.6294875"/>
+ <node id="9844997099" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760825" lon="113.6320131"/>
+ <node id="9844997100" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8761601" lon="113.6320854"/>
+ <node id="9844997101" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8762567" lon="113.6321468"/>
+ <node id="9844997102" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8764585" lon="113.6322204"/>
+ <node id="9844997103" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8754438" lon="113.6324161"/>
+ <node id="9844997104" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8756511" lon="113.6322303"/>
+ <node id="9844997105" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8757797" lon="113.6320393"/>
+ <node id="9844997106" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8758366" lon="113.6319083"/>
+ <node id="9844997107" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8759961" lon="113.6318896"/>
+ <node id="9844997109" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8761851" lon="113.6287379"/>
+ <node id="9844997110" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8763802" lon="113.6284943"/>
+ <node id="9844997111" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8768746" lon="113.6282819"/>
+ <node id="9844997112" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8773639" lon="113.6284429"/>
+ <node id="9844997113" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8776332" lon="113.6288989"/>
+ <node id="9844997114" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8790245" lon="113.6301188"/>
+ <node id="9844997115" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8793804" lon="113.6293146"/>
+ <node id="9844997116" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8792519" lon="113.6287165"/>
+ <node id="9845158517" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8785426" lon="113.6281317"/>
+ <node id="9845158518" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8783202" lon="113.6280566"/>
+ <node id="9845158519" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8781374" lon="113.6280137"/>
+ <node id="9845158520" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8776653" lon="113.6279950"/>
+ <node id="9845158521" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8774306" lon="113.6280191"/>
+ <node id="9845158522" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8766892" lon="113.6282444"/>
+ <node id="9845158523" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8791530" lon="113.6300066"/>
+ <node id="9845158524" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8794471" lon="113.6293387"/>
+ <node id="9845158525" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8785945" lon="113.6280701"/>
+ <node id="9845158526" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8783820" lon="113.6279842"/>
+ <node id="9845158527" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8781571" lon="113.6279333"/>
+ <node id="9845158528" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8776678" lon="113.6279225"/>
+ <node id="9845158529" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8770550" lon="113.6280137"/>
+ <node id="9845158530" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8780163" lon="113.6317742"/>
+ <node id="9845158531" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8782090" lon="113.6310044"/>
+ <node id="9845158532" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8779125" lon="113.6316293"/>
+ <node id="9845158533" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8784561" lon="113.6245859"/>
+ <node id="9845158534" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8774602" lon="113.6275497"/>
+ <node id="9845158535" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8778359" lon="113.6269596"/>
+ <node id="9845158536" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8780682" lon="113.6261228"/>
+ <node id="9845158537" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785" lat="22.8781645" lon="113.6252966"/>
+ <node id="10054092405" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8757204" lon="113.6321416"/>
+ <node id="10054092406" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8759361" lon="113.6289585"/>
+ <node id="10054092407" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760055" lon="113.6288240"/>
+ <node id="10054092408" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8758719" lon="113.6291942"/>
+ <node id="10054092409" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760559" lon="113.6291229"/>
+ <node id="10054092410" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8762527" lon="113.6286352"/>
+ <node id="10054092411" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8761404" lon="113.6288358"/>
+ <node id="10054092412" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760206" lon="113.6294644"/>
+ <node id="10054092413" visible="true" version="1" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967" lat="22.8760222" lon="113.6319376"/>
+ <way id="292935419" visible="true" version="8" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="2964891384"/>
+  <nd ref="7106596534"/>
+  <nd ref="2964891361"/>
+  <nd ref="2964891117"/>
+  <nd ref="2964891102"/>
+  <nd ref="2964891090"/>
+  <nd ref="2964891069"/>
+  <nd ref="2964891063"/>
+  <nd ref="2964891058"/>
+  <nd ref="2964890915"/>
+  <nd ref="2964890893"/>
+  <nd ref="2964890619"/>
+  <nd ref="2964890562"/>
+  <nd ref="2964890534"/>
+  <nd ref="2964890411"/>
+  <nd ref="9844997102"/>
+  <nd ref="6409583793"/>
+  <nd ref="9844997103"/>
+  <nd ref="2964890357"/>
+  <nd ref="2964890218"/>
+  <nd ref="2964890195"/>
+  <nd ref="2964890181"/>
+  <nd ref="3395151982"/>
+  <nd ref="2964890154"/>
+  <nd ref="2964890153"/>
+  <nd ref="2964890150"/>
+  <nd ref="2964890148"/>
+  <nd ref="2964890146"/>
+  <nd ref="2964890145"/>
+  <nd ref="2964890142"/>
+  <nd ref="2964890122"/>
+  <nd ref="3261146332"/>
+  <nd ref="2964890100"/>
+  <nd ref="2964890096"/>
+  <nd ref="2964890092"/>
+  <nd ref="2964890089"/>
+  <nd ref="2964890088"/>
+  <nd ref="2964890086"/>
+  <nd ref="2964890081"/>
+  <nd ref="2964890078"/>
+  <nd ref="2964890075"/>
+  <nd ref="2964890074"/>
+  <nd ref="2964890070"/>
+  <nd ref="3261146304"/>
+  <nd ref="5904901958"/>
+  <nd ref="2964889824"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="环保路"/>
+ </way>
+ <way id="684185841" visible="true" version="4" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583781"/>
+  <nd ref="6409583763"/>
+  <nd ref="9844997111"/>
+  <nd ref="6409583760"/>
+  <nd ref="6409583759"/>
+  <nd ref="9844997112"/>
+  <nd ref="6409583762"/>
+  <nd ref="6409583758"/>
+  <nd ref="9844997113"/>
+  <nd ref="6409583761"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="厚街"/>
+  <tag k="destination:ref" v="S6"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="684185843" visible="true" version="4" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583767"/>
+  <nd ref="9845158537"/>
+  <nd ref="9845158536"/>
+  <nd ref="6409583766"/>
+  <nd ref="9845158535"/>
+  <nd ref="6409583765"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="layer" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="684185845" visible="true" version="4" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583788"/>
+  <nd ref="9844997116"/>
+  <nd ref="6409583789"/>
+  <nd ref="6409583790"/>
+  <nd ref="9844997115"/>
+  <nd ref="6409583791"/>
+  <nd ref="6409583776"/>
+  <nd ref="6409583792"/>
+  <nd ref="6409583775"/>
+  <nd ref="6409583773"/>
+  <nd ref="6409583777"/>
+  <nd ref="6409583772"/>
+  <nd ref="6409583774"/>
+  <nd ref="6409583770"/>
+  <nd ref="6409583771"/>
+  <nd ref="6409583769"/>
+  <nd ref="6409583768"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="顺德"/>
+  <tag k="destination:ref" v="S6"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="layer" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="684185849" visible="true" version="4" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583802"/>
+  <nd ref="6409583801"/>
+  <nd ref="6409583804"/>
+  <nd ref="9845158525"/>
+  <nd ref="9845158526"/>
+  <nd ref="9845158527"/>
+  <nd ref="6409583800"/>
+  <nd ref="9845158528"/>
+  <nd ref="6409583799"/>
+  <nd ref="9845158529"/>
+  <nd ref="6409583796"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="687712155" visible="true" version="1" changeset="69865376" timestamp="2019-05-04T03:49:34Z" user="HYQ31" uid="7492212">
+  <nd ref="6447059837"/>
+  <nd ref="6447059838"/>
+  <nd ref="6447059839"/>
+  <nd ref="6447059840"/>
+  <nd ref="6447059841"/>
+  <nd ref="6447059842"/>
+  <nd ref="6447059843"/>
+  <nd ref="6447059844"/>
+  <nd ref="6447059845"/>
+  <nd ref="6447059837"/>
+  <tag k="junction" v="yes"/>
+  <tag k="name" v="沙田东互通"/>
+ </way>
+ <way id="804667417" visible="true" version="1" changeset="85307381" timestamp="2020-05-16T15:14:17Z" user="Maps Man" uid="10216874">
+  <nd ref="6409583995"/>
+  <nd ref="6409583994"/>
+  <nd ref="6409583993"/>
+  <nd ref="6409583992"/>
+  <nd ref="6409583991"/>
+  <nd ref="6409583767"/>
+  <nd ref="6409583990"/>
+  <nd ref="6409583989"/>
+  <nd ref="6409583756"/>
+  <nd ref="6409583988"/>
+  <nd ref="6409583987"/>
+  <nd ref="6409583986"/>
+  <nd ref="6409583985"/>
+  <nd ref="6409583984"/>
+  <nd ref="6409583983"/>
+  <nd ref="6409583982"/>
+  <tag k="bridge" v="viaduct"/>
+  <tag k="construction" v="motorway"/>
+  <tag k="highway" v="motorway"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="广龙高速"/>
+  <tag k="name:en" v="Guangzhou-Longchuan Expressway"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="S6"/>
+ </way>
+ <way id="804667426" visible="true" version="2" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583813"/>
+  <nd ref="9845158532"/>
+  <nd ref="6409583865"/>
+  <nd ref="6409583768"/>
+  <nd ref="6409583866"/>
+  <nd ref="9845158533"/>
+  <nd ref="6409583867"/>
+  <nd ref="6409583868"/>
+  <nd ref="6409583869"/>
+  <nd ref="6409583870"/>
+  <nd ref="6409583871"/>
+  <tag k="bridge" v="viaduct"/>
+  <tag k="construction" v="motorway"/>
+  <tag k="highway" v="motorway"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="广龙高速"/>
+  <tag k="name:en" v="Guangzhou-Longchuan Expressway"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="S6"/>
+ </way>
+ <way id="1073176475" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967">
+  <nd ref="6409583754"/>
+  <nd ref="9844997106"/>
+  <nd ref="6409583793"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176476" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967">
+  <nd ref="6409583793"/>
+  <nd ref="9844997107"/>
+  <nd ref="6409583755"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="顺德"/>
+  <tag k="destination:ref" v="S6"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176477" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967">
+  <nd ref="9844997102"/>
+  <nd ref="9844997101"/>
+  <nd ref="9844997100"/>
+  <nd ref="9844997099"/>
+  <nd ref="10054092413"/>
+  <nd ref="9844997107"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176478" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967">
+  <nd ref="9844997106"/>
+  <nd ref="9844997105"/>
+  <nd ref="10054092405"/>
+  <nd ref="9844997104"/>
+  <nd ref="9844997103"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176479" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583761"/>
+  <nd ref="6409583757"/>
+  <nd ref="6409583756"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="厚街"/>
+  <tag k="destination:ref" v="S6"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="layer" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176480" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583811"/>
+  <nd ref="6409583807"/>
+  <nd ref="9844997114"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176481" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583781"/>
+  <nd ref="9845158522"/>
+  <nd ref="6409583782"/>
+  <nd ref="6409583783"/>
+  <nd ref="9845158521"/>
+  <nd ref="9845158520"/>
+  <nd ref="6409583784"/>
+  <nd ref="9845158519"/>
+  <nd ref="9845158518"/>
+  <nd ref="9845158517"/>
+  <nd ref="6409583785"/>
+  <nd ref="6409583786"/>
+  <nd ref="6409583787"/>
+  <nd ref="6409583788"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="顺德"/>
+  <tag k="destination:ref" v="S6"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176482" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967">
+  <nd ref="6409583755"/>
+  <nd ref="6409583778"/>
+  <nd ref="10054092412"/>
+  <nd ref="6409583779"/>
+  <nd ref="10054092409"/>
+  <nd ref="6409583780"/>
+  <nd ref="10054092411"/>
+  <nd ref="9844997109"/>
+  <nd ref="10054092410"/>
+  <nd ref="9844997110"/>
+  <nd ref="6409583781"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="顺德"/>
+  <tag k="destination:ref" v="S6"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176483" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="9844997114"/>
+  <nd ref="9845158523"/>
+  <nd ref="6409583809"/>
+  <nd ref="6409583806"/>
+  <nd ref="9845158524"/>
+  <nd ref="6409583805"/>
+  <nd ref="6409583803"/>
+  <nd ref="6409583808"/>
+  <nd ref="6409583802"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="layer" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176484" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583813"/>
+  <nd ref="9845158530"/>
+  <nd ref="6409583810"/>
+  <nd ref="9845158531"/>
+  <nd ref="6409583812"/>
+  <nd ref="6409583811"/>
+  <tag k="bridge" v="yes"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="layer" v="1"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176485" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583858"/>
+  <nd ref="6409583859"/>
+  <nd ref="6409583860"/>
+  <nd ref="6409583861"/>
+  <nd ref="6409583862"/>
+  <nd ref="6409583863"/>
+  <nd ref="6409583813"/>
+  <tag k="bridge" v="viaduct"/>
+  <tag k="construction" v="motorway"/>
+  <tag k="highway" v="motorway"/>
+  <tag k="layer" v="1"/>
+  <tag k="name" v="广龙高速"/>
+  <tag k="name:en" v="Guangzhou-Longchuan Expressway"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="ref" v="S6"/>
+ </way>
+ <way id="1073176486" visible="true" version="1" changeset="122817548" timestamp="2022-06-24T20:20:59Z" user="greecemapper" uid="23785">
+  <nd ref="6409583765"/>
+  <nd ref="9845158534"/>
+  <nd ref="6409583764"/>
+  <nd ref="6409583796"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="1073176487" visible="true" version="2" changeset="126663394" timestamp="2022-09-26T16:22:42Z" user="XD346" uid="4892967">
+  <nd ref="6409583796"/>
+  <nd ref="9844997095"/>
+  <nd ref="6409583798"/>
+  <nd ref="9844997096"/>
+  <nd ref="6409583797"/>
+  <nd ref="10054092407"/>
+  <nd ref="10054092406"/>
+  <nd ref="9844997097"/>
+  <nd ref="10054092408"/>
+  <nd ref="6409583795"/>
+  <nd ref="9844997098"/>
+  <nd ref="9844997094"/>
+  <nd ref="6409583754"/>
+  <tag k="construction" v="motorway_link"/>
+  <tag k="destination" v="环保路"/>
+  <tag k="highway" v="motorway_link"/>
+  <tag k="junction:ref" v="15"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+</osm>
